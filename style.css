@@ -1,0 +1,9 @@
+.navbar-custom-color {
+    background-color: #C21807; /* Replace with your desired hex code, RGB, or named color */
+}
+.my-brand-image {
+    object-position: center;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
